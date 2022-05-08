@@ -11,4 +11,4 @@ This project focuses on the ability to identify places of importance using Augme
 #### Native Toolkit v1.2
 
 ### NOTE:
-3/27 - Current prototype needs to be started while on the ground. The altitude of the location objects is being affected by the initial altitude of the user at startup.
+3/27 - Current prototype needs to be started while on the ground at Centenial Airport. The altitude of the location objects is being affected by the initial altitude of the user at startup. This bug was found during flight.
